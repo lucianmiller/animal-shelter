@@ -1,0 +1,19 @@
+p {
+  color: blue;
+  text-align: center;
+}
+
+.quarts p {
+  color: pink;
+  text-align: left;
+}
+
+.douge p {
+  color: blue;
+  text-align: left;
+}
+
+.bob p {
+  color: purple;
+  text-align: left;
+}
