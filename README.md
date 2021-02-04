@@ -1,12 +1,12 @@
 # Animal Shelter
 
-#### Cascding Practice for Epicodus, 2/4/2021
+#### Cascding and Media Queries Practice for Epicodus, 2/4/2021
 
 #### By Lucain Miller
 
 ## Description
 
-This website was made to practuse styeling cascading elements using and animal shelter as a subject.
+This website was made to practuse styeling cascading elements, and how media queries can change the look of a website depending on what media is being used, using and animal shelter as a subject.
 
 ## Setup/Installation Requirements
 
