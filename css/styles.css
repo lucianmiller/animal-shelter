@@ -29,3 +29,15 @@ p {
   color: purple;
   text-align: left;
 }
+
+@media screen and (max-width: 1000px) and (min-width: 700px) {
+  body {
+    background-color: orange;
+  }
+}
+
+@media screen and (max-width: 480px) and (min-width: 300px) {
+  body {
+    background-color: crimson;
+  }
+}
