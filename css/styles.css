@@ -3,14 +3,26 @@ p {
   text-align: center;
 }
 
+.quarts {
+  background-color: purple;
+}
+
 .quarts p {
   color: pink;
   text-align: left;
 }
 
+.douge {
+  background-color: teal;
+}
+
 .douge p {
-  color: blue;
+  color: darkblue;
   text-align: left;
+}
+
+.bob {
+  background-color: green;
 }
 
 .bob p {
